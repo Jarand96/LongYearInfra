@@ -1,0 +1,19 @@
+{
+    "id": 4567890123,
+    "date": "2023-11-05",
+    "researcher": "Dr. Sophia Ramirez",
+    "experiment_description": "Subjects were exposed to a combination of mutagenic chemicals and high-frequency electromagnetic radiation to induce mutations in the nervous system. Results showed enhanced synaptic connectivity and accelerated neural transmission, leading to increased cognitive abilities and memory retention. However, subjects also displayed heightened sensitivity to external stimuli, experiencing constant hallucinations and severe paranoia.",
+    "ethics_approval": "Pending",
+    "patient_id": "P-004",
+    "age": 25,
+    "gender": "Female",
+    "mutation_effect": "Enhanced synaptic connectivity, accelerated neural transmission",
+    "desired_effect": "Improved cognitive abilities, memory retention",
+    "mutation_name": "NeuroBoost-Alpha",
+    "mutation_location": "Nervous system",
+    "additional_data": {
+      "blood_type": "B-",
+      "medical_history": "No known pre-existing conditions",
+      "previous_experiments": "None"
+    }
+  }

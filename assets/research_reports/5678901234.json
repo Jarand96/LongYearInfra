@@ -1,0 +1,19 @@
+{
+    "id": 5678901234,
+    "date": "2024-01-20",
+    "researcher": "Dr. Benjamin Thompson",
+    "experiment_description": "Experiment aimed to induce mutations in the immune system to enhance resistance to infectious diseases. Subjects were administered with a cocktail of mutagenic compounds targeting immune cells. Initial results showed improved immune response and resistance to common pathogens. However, subjects experienced severe autoimmune reactions, resulting in organ failure and death in all cases.",
+    "ethics_approval": "Unauthorized",
+    "patient_id": "P-005",
+    "age": 40,
+    "gender": "Male",
+    "mutation_effect": "Enhanced immune response, resistance to pathogens",
+    "desired_effect": "Improved immunity to infectious diseases",
+    "mutation_name": "ImmunoBoost-Beta",
+    "mutation_location": "Immune cells",
+    "additional_data": {
+      "blood_type": "A-",
+      "medical_history": "No known pre-existing conditions",
+      "previous_experiments": "None"
+    }
+  }

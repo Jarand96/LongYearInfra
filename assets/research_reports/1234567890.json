@@ -1,0 +1,19 @@
+{
+    "id": 1234567890,
+    "date": "2023-05-15",
+    "researcher": "Dr. Alexander Smith",
+    "experiment_description": "Experiment involved exposing subjects to a mutagenic substance derived from genetically modified bacteria. Mutations observed included enhanced strength and heightened aggression. Subjects exhibited increased muscle mass and accelerated wound healing. However, cognitive functions deteriorated rapidly, leading to severe behavioral abnormalities.",
+    "ethics_approval": "Unapproved",
+    "patient_id": "P-001",
+    "age": 27,
+    "gender": "Male",
+    "mutation_effect": "Enhanced strength, heightened aggression",
+    "desired_effect": "Increased muscle mass, accelerated wound healing",
+    "mutation_name": "Bacillus mutagenesis",
+    "mutation_location": "Muscle cells",
+    "additional_data": {
+      "blood_type": "AB+",
+      "medical_history": "No known pre-existing conditions",
+      "previous_experiments": "None"
+    }
+  }

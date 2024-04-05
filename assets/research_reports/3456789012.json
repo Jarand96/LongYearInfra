@@ -1,0 +1,19 @@
+{
+  "id": 3456789012,
+  "date": "2023-09-10",
+  "researcher": "Dr. Michael Chen",
+  "experiment_description": "Experiment involved genetic manipulation of embryonic stem cells to induce specific mutations associated with heightened sensory perception. Subjects exhibited extraordinary abilities in auditory and visual perception, surpassing normal human capabilities. However, heightened sensory input led to severe sensory overload, resulting in neurological disorders and eventual mental breakdown in all subjects.",
+  "ethics_approval": "Rejected",
+  "patient_id": "P-003",
+  "age": 30,
+  "gender": "Male",
+  "mutation_effect": "Heightened sensory perception",
+  "desired_effect": "Improved auditory and visual perception",
+  "mutation_name": "SensoryGene-X",
+  "mutation_location": "Embryonic stem cells",
+  "additional_data": {
+    "blood_type": "A+",
+    "medical_history": "No known pre-existing conditions",
+    "previous_experiments": "None"
+  }
+}

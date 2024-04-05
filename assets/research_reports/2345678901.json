@@ -1,0 +1,19 @@
+{
+    "id": 2345678901,
+    "date": "2023-07-20",
+    "researcher": "Dr. Emily Johnson",
+    "experiment_description": "Subjects were injected with a viral vector carrying targeted mutations in the DNA repair pathway. Initial results showed increased resistance to radiation exposure and accelerated tissue regeneration. However, unforeseen side effects included uncontrollable cell proliferation leading to tumor formation in all subjects. Experiment halted due to ethical concerns.",
+    "ethics_approval": "Denied",
+    "patient_id": "P-002",
+    "age": 35,
+    "gender": "Female",
+    "mutation_effect": "Increased resistance to radiation, accelerated tissue regeneration",
+    "desired_effect": "Improved DNA repair mechanism",
+    "mutation_name": "RepairGene-1",
+    "mutation_location": "DNA repair pathway",
+    "additional_data": {
+      "blood_type": "O-",
+      "medical_history": "Family history of cancer",
+      "previous_experiments": "None"
+    }
+  }
